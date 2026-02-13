@@ -391,21 +391,6 @@ crypto-trading-system/
 
 ---
 
-## 💡 Business Analyst Talking Points
-
-**When discussing this project with recruiters:**
-
-> "I built this system to understand how financial exchanges process high-frequency trading data. The challenge was efficiently aggregating 50,000+ tick-level transactions into analytical time periods. I implemented a candlestick generation algorithm that reduced data complexity while preserving critical market insights. The system demonstrates my ability to translate complex business requirements—like order matching and multi-currency wallets—into clean, maintainable code. It also shows I understand the importance of audit trails and data persistence in financial systems."
-
-**Key phrases to use:**
-- "Data pipeline architecture"
-- "Pattern recognition algorithms"
-- "Financial data processing"
-- "Audit trail for compliance"
-- "Multi-stage transaction workflow"
-
----
-
 ## 📝 License
 
 MIT License - Free to use for learning and portfolio purposes
